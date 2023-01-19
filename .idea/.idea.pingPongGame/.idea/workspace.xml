@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="98716787-49d8-43dd-bf1b-f4a3212209d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.pingPongGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.pingPongGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/BallMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/BallMovement.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayButton.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +12,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2KXFrLLySmkePOskhzQMFf7xwhV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -83,13 +81,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674113222774</updated>
-      <workItem from="1674113227567" duration="8622000" />
+      <workItem from="1674113227567" duration="9893000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
